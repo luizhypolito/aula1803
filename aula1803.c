@@ -3,5 +3,5 @@
 
 int main()
 {
-	printf("Olá Mundo!");
+	printf("Bem-vindo ao Labaratório de Programação II");
 }
